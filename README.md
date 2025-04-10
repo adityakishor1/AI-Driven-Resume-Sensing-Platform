@@ -18,6 +18,18 @@ The **AI-Driven Resume Sensing Platform** is an intelligent system that evaluate
 **HomePage**
 ![Homepage](https://github.com/adityakishor1/AI-Driven-Resume-Sensing-Platform/blob/024cf29b1640f4adb62776dd88481cb8aee43f36/img/homepage.png)
 
+**Input Job Discription**
+![JD](https://github.com/adityakishor1/AI-Driven-Resume-Sensing-Platform/blob/a04b833c68827ffff09878a3ca115781073feea8/img/JD.png)
+
+**Select Resume from File**
+![Input resume](https://github.com/adityakishor1/AI-Driven-Resume-Sensing-Platform/blob/a04b833c68827ffff09878a3ca115781073feea8/img/SeR.png)
+
+**Submit**
+![Submit](https://github.com/adityakishor1/AI-Driven-Resume-Sensing-Platform/blob/a04b833c68827ffff09878a3ca115781073feea8/img/Sub.png)
+
+**Output**
+![output](https://github.com/adityakishor1/AI-Driven-Resume-Sensing-Platform/blob/a04b833c68827ffff09878a3ca115781073feea8/img/Result.png)
+
 ## 🛠️ Tech Stack  
 - **Backend**: Python (Flask/FastAPI)  
 - **NLP**: spaCy / BERT / OpenAI GPT  
