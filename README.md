@@ -1,4 +1,5 @@
-# AI-Driven Resume Sensing Platform  
+# AI-Driven Resume Sensing Platform.
+
 
 ## 📌 Overview  
 The **AI-Driven Resume Sensing Platform** is an intelligent system that evaluates how well a resume matches a given job description. By leveraging AI-powered text analysis and API integration, the platform provides:  
