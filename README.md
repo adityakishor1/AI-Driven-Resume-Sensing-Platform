@@ -14,7 +14,8 @@ The **AI-Driven Resume Sensing Platform** is an intelligent system that evaluate
 ✅ Recommendations to optimize resumes for better job matching.  
 ✅ API-based system for seamless integration. 
 
-## Output
+
+## Output Below
 
 
 **HomePage**
