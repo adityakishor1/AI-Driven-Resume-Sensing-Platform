@@ -1,4 +1,5 @@
-# AI-Driven Resume Sensing Platform  
+# AI-Driven Resume Sensing Platform.
+
 
 ## 📌 Overview  
 The **AI-Driven Resume Sensing Platform** is an intelligent system that evaluates how well a resume matches a given job description. By leveraging AI-powered text analysis and API integration, the platform provides:  
@@ -11,7 +12,31 @@ The **AI-Driven Resume Sensing Platform** is an intelligent system that evaluate
 ✅ AI-powered similarity scoring to assess resume-job fit.  
 ✅ Identification of matched and missing skills.  
 ✅ Recommendations to optimize resumes for better job matching.  
-✅ API-based system for seamless integration.  
+✅ API-based system for seamless integration. 
+
+
+## Output Below
+
+
+**HomePage**
+
+![Homepage](https://github.com/adityakishor1/AI-Driven-Resume-Sensing-Platform/blob/024cf29b1640f4adb62776dd88481cb8aee43f36/img/homepage.png)
+
+**Input Job Discription**
+
+![JD](https://github.com/adityakishor1/AI-Driven-Resume-Sensing-Platform/blob/a04b833c68827ffff09878a3ca115781073feea8/img/JD.png)
+
+**Select Resume from File**
+
+![Input resume](https://github.com/adityakishor1/AI-Driven-Resume-Sensing-Platform/blob/a04b833c68827ffff09878a3ca115781073feea8/img/SeR.png)
+
+**Submit**
+
+![Submit](https://github.com/adityakishor1/AI-Driven-Resume-Sensing-Platform/blob/a04b833c68827ffff09878a3ca115781073feea8/img/Sub.png)
+
+**Output**
+
+![output](https://github.com/adityakishor1/AI-Driven-Resume-Sensing-Platform/blob/a04b833c68827ffff09878a3ca115781073feea8/img/Result.png)
 
 ## 🛠️ Tech Stack  
 - **Backend**: Python (Flask/FastAPI)  
