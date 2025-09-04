@@ -5,7 +5,7 @@
 The **AI-Driven Resume Sensing Platform** is an intelligent system that evaluates how well a resume matches a given job description. By leveraging AI-powered text analysis and API integration, the platform provides:  
 - A **matching percentage** between the resume and job description.  
 - **Highlighted matching skills** and **missing skills** that need improvement.  
-- Actionable insights to enhance resume alignment with job requirements.  
+- Actionable insights to enhance resume alignment with job requirements.
 
 ## 🚀 Features  
 ✅ Upload a job description and resume for analysis.  
