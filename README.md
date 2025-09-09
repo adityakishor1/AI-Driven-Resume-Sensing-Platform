@@ -51,15 +51,7 @@ The **AI-Driven Resume Sensing Platform** is an intelligent system that evaluate
 3. **Results** show match percentage, relevant skills, and missing skills.  
 4. **Recommendations** are provided to enhance the resume.  
 
-## 📂 Repository Structure  
-```
-├── api/                 # API Backend Code  
-├── frontend/            # (Optional) Frontend Code  
-├── models/              # NLP Models for Resume Parsing  
-├── data/                # Sample Resumes & Job Descriptions  
-├── requirements.txt     # Dependencies  
-├── README.md            # Project Documentation  
-```
+
 
 ## 🏗️ Future Enhancements  
 - Support for multiple job descriptions.  
