@@ -49,8 +49,7 @@ The **AI-Driven Resume Sensing Platform** is an intelligent system that evaluate
 1. **Upload** a job description and a resume.  
 2. **AI Model** processes the text and calculates similarity.  
 3. **Results** show match percentage, relevant skills, and missing skills.  
-4. **Recommendations** are provided to enhance the resume.  
-
+4. **Recommendations** are provided to enhance the resume. 
 
 
 ## 🏗️ Future Enhancements  
